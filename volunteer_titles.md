@@ -28,9 +28,7 @@ they are: [Peter Wittek](https://github.com/peterwittek), [Tomáš Babej](https:
 
 ### Core Team Member
 Core team members attend our regular bi-weekly QOSF team meetings and have
-assumed ownership of one or more of our initiatives. This title implies an
-extraordinary commitment to QOSF's mission and usually involves between 5-10
-hours of volunteer work per month. All of our core team members are listed
+assumed ownership of one or more of our initiatives. All of our core team members are listed
 on the [QOSF website](https://qosf.org). As of March 2021, we have four core team
 members at QOSF: [Michał Stęchły](https://github.com/mstechly), [Maggie Li](https://github.com/lzylili), [Tomáš Babej](https://github.com/tbabej) and [Mark Fingerhuth](https://github.com/markf94).
 
