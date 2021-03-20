@@ -40,16 +40,6 @@ QOSF mentorship program. This title implies that this person has dedicated a
 considerable amount of their free time in order to mentor one or more quantum
 mentees on a variety of topics relating to quantum software.
 
-### Researcher
-You are a researcher at the Quantum Open Source Foundation if you
-have been or are still conducting research on a QOSF-designated research topic.
-As of March 2021, we have had **no** researchers at QOSF.
-
-### Quantum Software Engineer
-This title is reserved for volunteers that regularly work on open source
-repositories owned or co-owned by QOSF. As of March 2021, we have had **no**
-quantum software engineers at QOSF.
-
 ### Mentee
 This title applies to all people that have participated or are currently
 participating in the QOSF mentorship program. It implies that this person has
