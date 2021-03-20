@@ -32,6 +32,11 @@ assumed ownership of one or more of our initiatives. All of our core team member
 on the [QOSF website](https://qosf.org). As of March 2021, we have four core team
 members at QOSF: [Michał Stęchły](https://github.com/mstechly), [Maggie Li](https://github.com/lzylili), [Tomáš Babej](https://github.com/tbabej) and [Mark Fingerhuth](https://github.com/markf94).
 
+### Volunteer
+This title applies to people who're helping QOSF with it's various initiatives, 
+but are not members of the Core Team. This implies active involvement and working 
+in close collaboration with the members of the Core Team.
+
 ### Mentor
 This title applies to all people that have been or still are mentors in the
 QOSF mentorship program. This title implies that this person has dedicated a
