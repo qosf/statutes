@@ -28,27 +28,20 @@ they are: [Peter Wittek](https://github.com/peterwittek), [Tomáš Babej](https:
 
 ### Core Team Member
 Core team members attend our regular bi-weekly QOSF team meetings and have
-assumed ownership of one or more of our initiatives. This title implies an
-extraordinary commitment to QOSF's mission and usually involves between 5-10
-hours of volunteer work per month. All of our core team members are listed
+assumed ownership of one or more of our initiatives. All of our core team members are listed
 on the [QOSF website](https://qosf.org). As of March 2021, we have four core team
 members at QOSF: [Michał Stęchły](https://github.com/mstechly), [Maggie Li](https://github.com/lzylili), [Tomáš Babej](https://github.com/tbabej) and [Mark Fingerhuth](https://github.com/markf94).
+
+### Volunteer
+This title applies to people who're helping QOSF with it's various initiatives, 
+but are not members of the Core Team. This implies active involvement and working 
+in close collaboration with the members of the Core Team.
 
 ### Mentor
 This title applies to all people that have been or still are mentors in the
 QOSF mentorship program. This title implies that this person has dedicated a
 considerable amount of their free time in order to mentor one or more quantum
 mentees on a variety of topics relating to quantum software.
-
-### Researcher
-You are a researcher at the Quantum Open Source Foundation if you
-have been or are still conducting research on a QOSF-designated research topic.
-As of March 2021, we have had **no** researchers at QOSF.
-
-### Quantum Software Engineer
-This title is reserved for volunteers that regularly work on open source
-repositories owned or co-owned by QOSF. As of March 2021, we have had **no**
-quantum software engineers at QOSF.
 
 ### Mentee
 This title applies to all people that have participated or are currently
