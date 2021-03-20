@@ -20,12 +20,6 @@ The same applies to your personal CV - only add your QOSF affilation under the _
 
 The following is the list of official volunteer titles that we use at QOSF. **Please do not use any other title on LinkedIn or on your personal CV**.
 
-### Co-Founder
-This title implies that you were part of the original team that conceived the
-idea of the Quantum Open Source Foundation, incorporated it and subsequently
-build it up from scratch. There are only three people holding this title and
-they are: [Peter Wittek](https://github.com/peterwittek), [Tomáš Babej](https://github.com/tbabej) and [Mark Fingerhuth](https://github.com/markf94).
-
 ### Core Team Member
 Core team members attend our regular bi-weekly QOSF team meetings and have
 assumed ownership of one or more of our initiatives. All of our core team members are listed
